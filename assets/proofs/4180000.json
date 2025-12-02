@@ -313,5 +313,12 @@
         "Failed to validate block: Transaction { transaction_hash: Hash<32>(\"b0362bacccaf428f0838194038c00456a1e9586960e9283ad5b25c5f85c07a0e\"), transaction_index: 0, violation: Inputs(UnknownInput(TransactionInput { transaction_id: Hash<32>(\"93bbe71fa57c3234e3b0ea23573b4db42c5ff74d6f98f62b3aefa57df9d3455d\"), index: 0 })) }\n\"\""
       ]
     }
+  },
+  "4186500": {
+    "proofs": {
+      "risc0": [
+        "\"\""
+      ]
+    }
   }
 }
