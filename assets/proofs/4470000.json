@@ -250,5 +250,12 @@
         "\"\""
       ]
     }
+  },
+  "4475300": {
+    "proofs": {
+      "risc0": [
+        "Failed to validate block: Transaction { transaction_hash: Hash<32>(\"a648b0954f72ef050cfeea55bbe3ce09242d0da7cd97a7feb0fbaa2027e6d2c9\"), transaction_index: 0, violation: Inputs(UnknownInput(TransactionInput { transaction_id: Hash<32>(\"df1174a296b10ac7fbd0c1ed446e95ef03922f50dcfe1f244a896772fc04afad\"), index: 1 })) }\n\"\""
+      ]
+    }
   }
 }
