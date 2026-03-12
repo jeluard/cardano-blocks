@@ -54,5 +54,12 @@
         "Failed to validate block: TooManyExUnits { provided: ExUnits { mem: 66743030, steps: 13544477651 }, max: ExUnits { mem: 62000000, steps: 20000000000 } }\n\"\""
       ]
     }
+  },
+  "4501100": {
+    "proofs": {
+      "risc0": [
+        "\"\""
+      ]
+    }
   }
 }
