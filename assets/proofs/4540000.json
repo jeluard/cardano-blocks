@@ -313,5 +313,12 @@
         "Failed to validate block: Transaction { transaction_hash: Hash<32>(\"9b0c431efc96f2a6a38ac4ce30b104b411951af0aab2e2a32eeea4e5af406632\"), transaction_index: 0, violation: Inputs(UnknownInput(TransactionInput { transaction_id: Hash<32>(\"90c90e08c8a50cfdb042ea4c1376f2f053683fcbd1ca81db4da90ee1e3f70085\"), index: 1 })) }\n\"\""
       ]
     }
+  },
+  "4546500": {
+    "proofs": {
+      "risc0": [
+        "Failed to validate block: Transaction { transaction_hash: Hash<32>(\"6c14a2c75c96a96cacd6d4910aed09ec942358e35a5410f1e6d4ec6084b1fd60\"), transaction_index: 0, violation: Inputs(UnknownInput(TransactionInput { transaction_id: Hash<32>(\"7ca3d8ad246c00680e8ce57c68aac1ce35d695bd49996df6ed3256cb24a1afd9\"), index: 1 })) }\n\"\""
+      ]
+    }
   }
 }
