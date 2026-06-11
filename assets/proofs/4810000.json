@@ -1,0 +1,9 @@
+{
+  "4810100": {
+    "proofs": {
+      "risc0": [
+        "Failed to validate block: Transaction { transaction_hash: Hash<32>(\"784075e01899258958e37d3197b49347b09c24e518d45bd8977cd9a94964a4f3\"), transaction_index: 0, violation: Inputs(UnknownInput(TransactionInput { transaction_id: Hash<32>(\"9dda8b6c9a75d7ef3833fa37089d6e50fae9fb6e5db038e15c22be24d537893b\"), index: 1 })) }\n\"\""
+      ]
+    }
+  }
+}
